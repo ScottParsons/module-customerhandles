@@ -1,4 +1,12 @@
 <?xml version="1.0"?>
+<!--
+/*
+ * @package    SussexDev_CustomerHandles
+ * @copyright  Copyright (c) 2018 Scott Parsons
+ * @license    https://github.com/ScottParsons/module-customerhandles/blob/master/LICENSE.md
+ * @version    1.0.1
+ */
+ -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="SussexDev_CustomerHandles" setup_version="1.0.0" />
 </config>
